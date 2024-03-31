@@ -1,0 +1,15 @@
+D:\Work\Dev\C_Code\C#\C-_XO-Game\bin\Debug\net8.0\C-_XO-Game.exe
+D:\Work\Dev\C_Code\C#\C-_XO-Game\bin\Debug\net8.0\C-_XO-Game.deps.json
+D:\Work\Dev\C_Code\C#\C-_XO-Game\bin\Debug\net8.0\C-_XO-Game.runtimeconfig.json
+D:\Work\Dev\C_Code\C#\C-_XO-Game\bin\Debug\net8.0\C-_XO-Game.dll
+D:\Work\Dev\C_Code\C#\C-_XO-Game\bin\Debug\net8.0\C-_XO-Game.pdb
+D:\Work\Dev\C_Code\C#\C-_XO-Game\obj\Debug\net8.0\C-_XO-Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Dev\C_Code\C#\C-_XO-Game\obj\Debug\net8.0\C-_XO-Game.AssemblyInfoInputs.cache
+D:\Work\Dev\C_Code\C#\C-_XO-Game\obj\Debug\net8.0\C-_XO-Game.AssemblyInfo.cs
+D:\Work\Dev\C_Code\C#\C-_XO-Game\obj\Debug\net8.0\C-_XO-Game.csproj.CoreCompileInputs.cache
+D:\Work\Dev\C_Code\C#\C-_XO-Game\obj\Debug\net8.0\C-_XO-Game.sourcelink.json
+D:\Work\Dev\C_Code\C#\C-_XO-Game\obj\Debug\net8.0\C-_XO-Game.dll
+D:\Work\Dev\C_Code\C#\C-_XO-Game\obj\Debug\net8.0\refint\C-_XO-Game.dll
+D:\Work\Dev\C_Code\C#\C-_XO-Game\obj\Debug\net8.0\C-_XO-Game.pdb
+D:\Work\Dev\C_Code\C#\C-_XO-Game\obj\Debug\net8.0\C-_XO-Game.genruntimeconfig.cache
+D:\Work\Dev\C_Code\C#\C-_XO-Game\obj\Debug\net8.0\ref\C-_XO-Game.dll
